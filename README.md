@@ -1,5 +1,5 @@
 # Responsive Clock Ui
-## Live Preview 🔥 https://amazing-shannon-276cf8.netlify.app/
+## Live Preview 🔥 https://analog-clockbydilshad.netlify.app/
 ### Responsive Clock Ui
 
 - Beautiful responsive clock UI design using HTML, CSS, and JAVASCRIPT.
